@@ -51,3 +51,16 @@ Step 1: Download Kali Linux ISO
 1.Go to the Kali Linux download page.
 
 2.Download the Kali Linux ISO file.
+
+ Choose between 32-bit or 64-bit depending on your system (most systems are 64-bit).  Download the Installer version for a full installation.
+ 
+Step 2: Open Oracle VM VirtualBox
+
+1.Launch VirtualBox on your computer.
+
+Step 3: Create a New Virtual Machine
+
+1.In VirtualBox, click on the New button to create a new virtual machine.
+
+2.Name and Type Settings:
+Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
