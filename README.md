@@ -1,7 +1,7 @@
 # EX---2-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
 
-## NAME : Sneha HV
-## REG.NO : 212222040157
+## NAME : Dharshan S
+## REG.NO : 212222040036
 # Virtualization
 ## AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
